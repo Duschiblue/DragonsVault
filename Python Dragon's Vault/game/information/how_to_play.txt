@@ -1,0 +1,3 @@
+go to powershell
+make sure it is in correct folder // cd
+type py main.py in terminal

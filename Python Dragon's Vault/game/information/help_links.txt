@@ -1,0 +1,16 @@
+Start/Exit Menu:
+https://www.youtube.com/watch?v=G8MYGDf_9ho&list=RDCMUCPrRY0S-VzekrJK7I7F4-Mg&index=1&ab_channel=CodingWithRuss
+
+Pause Menu:
+https://www.youtube.com/watch?v=2iyx8_elcYg&ab_channel=CodingWithRuss
+
+Coordinates for Hidden Objects:
+http://www.pygame.org/docs/ref/rect.html#Rect.collidepoint  
+https://stackoverflow.com/questions/10990137/pygame-mouse-clicking-detection
+
+Colors:
+https://www.webucator.com/article/python-color-constants-module/
+
+Buttons:
+https://www.geeksforgeeks.org/how-to-create-buttons-in-a-game-using-pygame/
+https://www.youtube.com/watch?v=vR0oxxDsWN0 (Transparency)

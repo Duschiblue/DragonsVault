@@ -1,0 +1,25 @@
+Dragon Vault
+(Stressful Hide & Seek Game in Pygame)
+
+
+Base Game:
+ * Player has to find the hidden items in the room before time runs out.
+ * Every __ seconds the room will darken and the enemy will crawl closer.
+ * If the player doesn't succeed in locating all the items, the time will run out and the enenmy will kill the player.
+ * If the player succeeds in locating all the hidden items, they will be transfered in to the next room and can kill the enemy.
+ * Every chapter has different story locations, and every chapter has several levels to complete.
+
+
+Hidden Item Coordinates: 
+ * A Gear: (224, 647)-(266, 635)
+ * A Helmet: (832, 728)-(884, 719)
+ * A Golden Crown: (695, 632)-(740, 624)
+ * A Golden Platter (574, 813)-(616, 792)
+ * A Dragon's Favorite Chest: (494, 351)-(595, 338)
+ * An Arm Cuff: (801, 850)-(837, 846)
+ * A triangular Artifact: (544, 416)-(568, 384)
+ * Revealing Tail Among the Hoard: (288, 833)-(494, 864)
+ * A Dragon's Jewlery: (343, 573)-(349, 490)
+ * Statue of Liberty Crown: (231, 598)-(309, 607)
+ * Oddly Long Thorn: (489, 224)-(536, 99)
+ * A Star: (607, 336)-(661, 366)
